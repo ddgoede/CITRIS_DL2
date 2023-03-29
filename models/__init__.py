@@ -1,1 +1,1 @@
-from CITRIS.models import *
+from CITRIS_DL2.models import *
